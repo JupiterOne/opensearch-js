@@ -1,5 +1,5 @@
 {
-  "name": "@opensearch-project/opensearch",
+  "name": "@jupiterone/opensearch",
   "description": "The official OpenSearch client for Node.js",
   "main": "index.js",
   "types": "index.d.ts",
@@ -22,7 +22,7 @@
     }
   },
   "homepage": "https://www.opensearch.org/",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "versionCanary": "7.10.0-canary.6",
   "keywords": [
     "opensearch",
